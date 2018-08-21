@@ -1,2 +1,7 @@
 # django-postgresql
-Running the postgresql database using docker-compose
+
+## Running the application
+
+```docker
+docker-compose up --build
+```
